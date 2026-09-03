@@ -1,0 +1,6 @@
+{
+  "name": "AgriChoice 2.0",
+  "description": "Global precision agriculture decision-support system enabling farmers to optimize profitability and sustainability through localized data, crop-livestock comparison matrices, and AI-driven recommendations.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
